@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    border: solid;
+    font-size: 30px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px ;
+}
+.box{
+    padding: 10% 0;
+    border-radius: 10%;
+    border-color: black;
+    background-size: 300%;
+    text-shadow: 5%;
+    border-style: solid;
+    
+}
+.box1{
+    color:black;
+    background: url(https://hscarroll.org/wp-content/uploads/2019/01/british-shorthair-red-tabby-kitten-jane-burton-250x250.jpg);
+}
+.box2{
+   background: url(https://www.scottsdalepethotel.com/wp-content/uploads/2020/01/scottsdale-cat-grooming-250x250.jpg);
+}
+.box3{
+    background: url(https://i.pinimg.com/736x/54/0d/66/540d664c084dfe50d815876cff5cc31d.jpg);
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 30px;
+}
